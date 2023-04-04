@@ -20,6 +20,11 @@ YOLOv5x is a state-of-the-art real-time object detection algorithm that uses dee
 
  * Easy to use: YOLOv5x is easy to use and comes with pre-trained models that can be fine-tuned on custom datasets.
 
+# Results
+
+![results](https://user-images.githubusercontent.com/99079792/229897873-6a77e59d-560f-4449-8230-f03f96e4fab3.png)
+
+
 # F1 Curve
 
 ![F1_curve](https://user-images.githubusercontent.com/99079792/229897584-53f4b136-4ca0-4717-9931-815a87d709c1.png)
