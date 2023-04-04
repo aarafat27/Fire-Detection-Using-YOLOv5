@@ -5,6 +5,14 @@ This project is aimed at developing a fire detection system using YOLOv5x, a sta
 ![val_batch0_pred](https://user-images.githubusercontent.com/99079792/229861115-aba75455-82b8-4008-bf07-d2ada5deaa16.jpg)
 
 
+# Language & libraries:
+* This code is written in Python 
+* PyTorch: A popular open-source machine learning framework used for building and training deep neural networks.
+* IPython: A powerful interactive shell and notebook interface for Python.
+* roboflow: A Python library for accessing Roboflow API to download and manage datasets.
+* glob: A Python module used for finding all the pathnames matching a specified pattern.
+* IPython.display: A module used for displaying images in Jupyter notebooks or the IPython shell.
+
 # YOLOv5x
 YOLOv5x is a state-of-the-art real-time object detection algorithm that uses deep neural networks to detect and classify objects in images and video streams. It is a successor to the popular YOLOv4 and builds on its success by improving accuracy while maintaining a real-time performance. YOLOv5x is part of the YOLO (You Only Look Once) family of object detection models that use a single neural network to make predictions.
 
