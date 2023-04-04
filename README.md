@@ -20,6 +20,11 @@ YOLOv5x is a state-of-the-art real-time object detection algorithm that uses dee
 
  * Easy to use: YOLOv5x is easy to use and comes with pre-trained models that can be fine-tuned on custom datasets.
 
+# F1 Curve
+
+![F1_curve](https://user-images.githubusercontent.com/99079792/229897584-53f4b136-4ca0-4717-9931-815a87d709c1.png)
+
+
 # N.B. 
 The Jupyter notebook file named Fire_Detection_Using_YOLOv5.ipynb will not work properly.
 The model was built in Google Colab. From the colab the model file was downloaded as ipynb file (There was no other option).
