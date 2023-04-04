@@ -4,6 +4,9 @@ The model was built in Google Colab. From the colab the model file was downloade
 Because of GPU limitation and the path dependencies, this fill will arise in error.
 It is suggested to run this file in the Google Colab.
 
+![val_batch0_pred](https://user-images.githubusercontent.com/99079792/229861115-aba75455-82b8-4008-bf07-d2ada5deaa16.jpg)
+
+
 # YOLOv5x
 YOLOv5x is a state-of-the-art real-time object detection algorithm that uses deep neural networks to detect and classify objects in images and video streams. It is a successor to the popular YOLOv4 and builds on its success by improving accuracy while maintaining a real-time performance. YOLOv5x is part of the YOLO (You Only Look Once) family of object detection models that use a single neural network to make predictions.
 
